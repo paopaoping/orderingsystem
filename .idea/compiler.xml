@@ -9,11 +9,11 @@
         <module name="user" />
         <module name="clientfeign" />
         <module name="menu" />
+        <module name="orderingsystem" />
         <module name="order" />
         <module name="account" />
-        <module name="registrycenter" />
         <module name="configserver" />
-        <module name="orderingsystem" />
+        <module name="registrycenter" />
       </profile>
     </annotationProcessing>
   </component>
